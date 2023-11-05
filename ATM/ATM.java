@@ -1,6 +1,7 @@
-import javax.swing.plaf.synth.SynthOptionPaneUI;
-import java.sql.SQLOutput;
-import java.util.*;
+package ATM;
+
+import java.util.ArrayList;
+import java.util.Scanner;
 class bankaccount{
     static  void register(){
         Scanner sc=new Scanner(System.in);
